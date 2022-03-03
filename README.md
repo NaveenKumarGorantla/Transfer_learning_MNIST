@@ -1,11 +1,5 @@
 # generic-python-project
 
-## ASSIGNMENT
-
-* Use time module to oberve the training time
-* Check with sigmoid function at output layer by using single unit, loss function binary_crossentropy 
-* Observe the starting accuracy of the training
-
 ## STEPS -
 
 ### STEP 01- Create a repository by using template repository
@@ -30,5 +24,3 @@ source activate ./env
 ```bash
 pip install -r requirements.txt
 ```
-
-### STEP 06- commit and push the changes to the remote repository
