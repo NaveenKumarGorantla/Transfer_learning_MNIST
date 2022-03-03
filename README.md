@@ -1,5 +1,9 @@
 # generic-python-project
 
+## Transfer Learning using MNIST dataset 
+
+Keras Tensor Flow
+
 ## STEPS -
 
 ### STEP 01- Create a repository by using template repository
